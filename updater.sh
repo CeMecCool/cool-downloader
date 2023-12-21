@@ -1,4 +1,4 @@
 #!/bin/bash
 
 rm -rf downloader.sh
-curl -LO https://github.com/CeMecCool/cool-downloader/blob/main/downloader.sh
+curl https://raw.githubusercontent.com/CeMecCool/cool-downloader/main/downloader.sh -o downloader.sh
